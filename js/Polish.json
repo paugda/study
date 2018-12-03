@@ -1,0 +1,24 @@
+
+
+{
+	"processing":     "Przetwarzanie...",
+	"search":         "Szukaj produktu:",
+	"lengthMenu":     "Pokaż _MENU_ produktów",
+	"info":           "Produkty od _START_ do _END_ z _TOTAL_ łącznie",
+	"infoEmpty":      "Produktów 0 z 0 dostępnych",
+	"infoFiltered":   "(filtrowanie spośród _MAX_ dostępnych produktów)",
+	"infoPostFix":    "",
+	"loadingRecords": "Wczytywanie...",
+	"zeroRecords":    "Nie znaleziono pasujących produktów",
+	"emptyTable":     "Brak danych",
+	"paginate": {
+		"first":      "Pierwsza",
+		"previous":   "Poprzednia",
+		"next":       "Następna",
+		"last":       "Ostatnia"
+	},
+	"aria": {
+		"sortAscending": ": aktywuj, by posortować kolumnę rosnąco",
+		"sortDescending": ": aktywuj, by posortować kolumnę malejąco"
+	}
+}
